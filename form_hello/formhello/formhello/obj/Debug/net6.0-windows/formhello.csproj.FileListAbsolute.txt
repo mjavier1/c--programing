@@ -1,0 +1,17 @@
+D:\windows_programancion\c#programing\formhello\formhello\bin\Debug\net6.0-windows\formhello.exe
+D:\windows_programancion\c#programing\formhello\formhello\bin\Debug\net6.0-windows\formhello.deps.json
+D:\windows_programancion\c#programing\formhello\formhello\bin\Debug\net6.0-windows\formhello.runtimeconfig.json
+D:\windows_programancion\c#programing\formhello\formhello\bin\Debug\net6.0-windows\formhello.dll
+D:\windows_programancion\c#programing\formhello\formhello\bin\Debug\net6.0-windows\formhello.pdb
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.csproj.AssemblyReference.cache
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.Form1.resources
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.csproj.GenerateResource.cache
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.AssemblyInfoInputs.cache
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.AssemblyInfo.cs
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.csproj.CoreCompileInputs.cache
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.dll
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\refint\formhello.dll
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.pdb
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\formhello.genruntimeconfig.cache
+D:\windows_programancion\c#programing\formhello\formhello\obj\Debug\net6.0-windows\ref\formhello.dll
