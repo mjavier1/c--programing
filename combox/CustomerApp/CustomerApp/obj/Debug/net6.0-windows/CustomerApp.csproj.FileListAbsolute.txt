@@ -1,0 +1,17 @@
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\bin\Debug\net6.0-windows\CustomerApp.exe
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\bin\Debug\net6.0-windows\CustomerApp.deps.json
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\bin\Debug\net6.0-windows\CustomerApp.runtimeconfig.json
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\bin\Debug\net6.0-windows\CustomerApp.dll
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\bin\Debug\net6.0-windows\CustomerApp.pdb
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.csproj.AssemblyReference.cache
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.Form1.resources
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.csproj.GenerateResource.cache
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.AssemblyInfoInputs.cache
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.AssemblyInfo.cs
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.csproj.CoreCompileInputs.cache
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.dll
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\refint\CustomerApp.dll
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.pdb
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\CustomerApp.genruntimeconfig.cache
+D:\windows_programancion\c#programing\CustomerApp\CustomerApp\obj\Debug\net6.0-windows\ref\CustomerApp.dll
