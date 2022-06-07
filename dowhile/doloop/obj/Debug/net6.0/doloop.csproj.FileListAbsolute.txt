@@ -1,0 +1,15 @@
+E:\windows_programancion\c#programing\doloop\doloop\bin\Debug\net6.0\doloop.exe
+E:\windows_programancion\c#programing\doloop\doloop\bin\Debug\net6.0\doloop.deps.json
+E:\windows_programancion\c#programing\doloop\doloop\bin\Debug\net6.0\doloop.runtimeconfig.json
+E:\windows_programancion\c#programing\doloop\doloop\bin\Debug\net6.0\doloop.dll
+E:\windows_programancion\c#programing\doloop\doloop\bin\Debug\net6.0\doloop.pdb
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\doloop.csproj.AssemblyReference.cache
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\doloop.GeneratedMSBuildEditorConfig.editorconfig
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\doloop.AssemblyInfoInputs.cache
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\doloop.AssemblyInfo.cs
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\doloop.csproj.CoreCompileInputs.cache
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\doloop.dll
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\refint\doloop.dll
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\doloop.pdb
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\doloop.genruntimeconfig.cache
+E:\windows_programancion\c#programing\doloop\doloop\obj\Debug\net6.0\ref\doloop.dll
