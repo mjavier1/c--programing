@@ -1,0 +1,17 @@
+E:\windows_programancion\c#programing\ifelseform\ifelseform\bin\Debug\net6.0-windows\ifelseform.exe
+E:\windows_programancion\c#programing\ifelseform\ifelseform\bin\Debug\net6.0-windows\ifelseform.deps.json
+E:\windows_programancion\c#programing\ifelseform\ifelseform\bin\Debug\net6.0-windows\ifelseform.runtimeconfig.json
+E:\windows_programancion\c#programing\ifelseform\ifelseform\bin\Debug\net6.0-windows\ifelseform.dll
+E:\windows_programancion\c#programing\ifelseform\ifelseform\bin\Debug\net6.0-windows\ifelseform.pdb
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.csproj.AssemblyReference.cache
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.Form1.resources
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.csproj.GenerateResource.cache
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.GeneratedMSBuildEditorConfig.editorconfig
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.AssemblyInfoInputs.cache
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.AssemblyInfo.cs
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.csproj.CoreCompileInputs.cache
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.dll
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\refint\ifelseform.dll
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.pdb
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ifelseform.genruntimeconfig.cache
+E:\windows_programancion\c#programing\ifelseform\ifelseform\obj\Debug\net6.0-windows\ref\ifelseform.dll
