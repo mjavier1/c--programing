@@ -1,0 +1,17 @@
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\bin\Debug\net6.0-windows\tabladeMu.exe
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\bin\Debug\net6.0-windows\tabladeMu.deps.json
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\bin\Debug\net6.0-windows\tabladeMu.runtimeconfig.json
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\bin\Debug\net6.0-windows\tabladeMu.dll
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\bin\Debug\net6.0-windows\tabladeMu.pdb
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.csproj.AssemblyReference.cache
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.Form1.resources
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.csproj.GenerateResource.cache
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.GeneratedMSBuildEditorConfig.editorconfig
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.AssemblyInfoInputs.cache
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.AssemblyInfo.cs
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.csproj.CoreCompileInputs.cache
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.dll
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\refint\tabladeMu.dll
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.pdb
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\tabladeMu.genruntimeconfig.cache
+E:\windows_programancion\c#programing\tabladeMu\tabladeMu\obj\Debug\net6.0-windows\ref\tabladeMu.dll
