@@ -1,0 +1,15 @@
+E:\windows_programancion\c#programing\Functions\Functions\bin\Debug\net6.0\Functions.exe
+E:\windows_programancion\c#programing\Functions\Functions\bin\Debug\net6.0\Functions.deps.json
+E:\windows_programancion\c#programing\Functions\Functions\bin\Debug\net6.0\Functions.runtimeconfig.json
+E:\windows_programancion\c#programing\Functions\Functions\bin\Debug\net6.0\Functions.dll
+E:\windows_programancion\c#programing\Functions\Functions\bin\Debug\net6.0\Functions.pdb
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\Functions.csproj.AssemblyReference.cache
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\Functions.dll
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\refint\Functions.dll
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\Functions.pdb
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\Functions.genruntimeconfig.cache
+E:\windows_programancion\c#programing\Functions\Functions\obj\Debug\net6.0\ref\Functions.dll
